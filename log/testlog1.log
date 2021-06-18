@@ -1,0 +1,15 @@
+2021-05-04 12:03:59,659 [main] INFO elearning_1 - url launched
+2021-05-04 12:04:00,392 [main] INFO elearning_1 - Entered username
+2021-05-04 12:04:00,913 [main] INFO elearning_1 - Entered password
+2021-05-04 12:04:03,436 [main] INFO elearning_1 - clicked login button
+2021-05-04 12:04:03,471 [main] INFO elearning_1 - Testcase passed
+2021-05-05 11:43:23,661 [main] INFO elearning_1 - url launched
+2021-05-05 11:43:24,516 [main] INFO elearning_1 - Entered username
+2021-05-05 11:43:24,935 [main] INFO elearning_1 - Entered password
+2021-05-05 11:43:27,340 [main] INFO elearning_1 - clicked login button
+2021-05-05 11:43:27,370 [main] INFO elearning_1 - Testcase passed
+2021-05-05 12:01:48,322 [main] INFO elearning_1 - url launched
+2021-05-05 12:01:49,201 [main] INFO elearning_1 - Entered username
+2021-05-05 12:01:49,540 [main] INFO elearning_1 - Entered password
+2021-05-05 12:01:52,141 [main] INFO elearning_1 - clicked login button
+2021-05-05 12:01:52,174 [main] INFO elearning_1 - Testcase passed
